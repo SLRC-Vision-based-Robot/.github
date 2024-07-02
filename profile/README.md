@@ -18,3 +18,7 @@ The Sparkle Robot organization is a collaborative effort by a group of enthusias
 - **Technologies:** Jupyter Notebook, TensorFlow, OpenCV.
 - **Repository:** [SLRC-vision-system](https://github.com/SLRC-Vision-based-Robot/SLRC-vision-system)
 
+### 3. Sparkle-Robot
+- **Description:** This repository contains the Sparkle Robot, a versatile robotic platform powered by Arduino to fulfill the EN2533: Robot Design and Competition tasks.
+- **Technologies:** C++, PID controllers, IR sensors, ultrasonic sensors,
+- **Repository:** [Sparkle-Robot](https://github.com/SLRC-Vision-based-Robot/Sparkle-Robot)
