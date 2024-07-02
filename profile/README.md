@@ -1,6 +1,6 @@
 # Sparkle Robot
 
-Welcome to the Sparkle Robot organization! We are dedicated to developing advanced robotics solutions for the robotic comptitions 
+Welcome to the Sparkle Robot organization! We are dedicated to developing advanced robotics solutions for the robotic competitions.
 
 ## About Us
 
@@ -9,7 +9,7 @@ The Sparkle Robot organization is a collaborative effort by a group of enthusias
 ## Our Projects
 
 ### 1. SLRC-Sparkle-Robot
-- **Description:** The main project of our organization, focusing on the development of a line-following robot with capabilities in computer vision, object detection, metal detection, and payload transportation.
+- **Description:** The development of a line-following robot with capabilities in computer vision, object detection, metal detection, and payload transportation.
 - **Technologies:** C++, TensorFlow, OpenCV, PID controllers, IR sensors, ultrasonic sensors, ToF sensors.
 - **Repository:** [SLRC-Sparkle-Robot](https://github.com/SLRC-Vision-based-Robot/SLRC-Sparkle-Robot)
 
@@ -20,5 +20,5 @@ The Sparkle Robot organization is a collaborative effort by a group of enthusias
 
 ### 3. Sparkle-Robot
 - **Description:** This repository contains the Sparkle Robot, a versatile robotic platform powered by Arduino to fulfill the EN2533: Robot Design and Competition tasks.
-- **Technologies:** C++, PID controllers, IR sensors, ultrasonic sensors,
+- **Technologies:** C++, PID controllers, IR sensors, ultrasonic sensors.
 - **Repository:** [Sparkle-Robot](https://github.com/SLRC-Vision-based-Robot/Sparkle-Robot)
